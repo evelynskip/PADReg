@@ -1,0 +1,15 @@
+PADReg/data/annotations/*
+PADReg/data/force/*
+PADReg/data/video/*
+*.log
+.vscode/
+*.pyc
+
+Quantitative_Results/*
+!Quantitative_Results/.gitkeep
+experiments/*
+!experiments/.gitkeep
+runs/*
+!runs/.gitkeep
+
+
