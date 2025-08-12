@@ -19,7 +19,9 @@ pip install -r requirements.txt
 
 ## Usage
 ### **Datasets Preparation**
-Download the registration dataset and put the dataset in the folder "PADReg/data/"
+The registration dataset is generated from [Mus-V](https://www.kaggle.com/datasets/among22/multimodal-ultrasound-vascular-segmentation) dataset. 
+
+Please put dataset in the folder "PADReg/data/"
 
 ### **Training**
 ```python
