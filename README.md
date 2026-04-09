@@ -34,5 +34,15 @@ python PADReg/valid.py -c 'PADReg/'
 ```
 You can modify the checkpoint folder to your experiment folder. 
 
+## Citation
+```bib
+@article{geng2024forcesensingguidedarteryvein,
+    title={Force Sensing Guided Artery-Vein Segmentation via Sequential Ultrasound Images}, 
+    author={Yimeng Geng and Gaofeng Meng and Mingcong Chen and Guanglin Cao and Mingyang Zhao and Jianbo Zhao and Hongbin Liu},
+    year={2024},
+    conference={International Conference on Medical Image Computing and Computer-Assisted Intervention}
+}
+```
+
 ## Acknowledgements
 This code largely benefits from the following repositories: [Transmorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration), [Voxelmorph](https://github.com/voxelmorph/voxelmorph). Thanks to their authors for opening the source of their excellent works.
