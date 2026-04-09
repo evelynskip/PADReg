@@ -36,11 +36,15 @@ You can modify the checkpoint folder to your experiment folder.
 
 ## Citation
 ```bib
-@article{geng2024forcesensingguidedarteryvein,
-    title={Force Sensing Guided Artery-Vein Segmentation via Sequential Ultrasound Images}, 
-    author={Yimeng Geng and Gaofeng Meng and Mingcong Chen and Guanglin Cao and Mingyang Zhao and Jianbo Zhao and Hongbin Liu},
-    year={2024},
-    conference={International Conference on Medical Image Computing and Computer-Assisted Intervention}
+@article{PADReg,
+    author = {Geng, Yimeng and Zhao, Mingyang and Xu, Fan and Cao, Guanglin and Meng, Gaofeng and Liu, Hongbin},
+    year = {2026},
+    month = {01},
+    pages = {1-8},
+    title = {PADReg: Physics-Aware Deformable Registration Guided by Contact Force for Ultrasound Sequences},
+    volume = {PP},
+    journal = {IEEE Robotics and Automation Letters},
+    doi = {10.1109/LRA.2026.3674671}
 }
 ```
 
